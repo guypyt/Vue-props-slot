@@ -1,0 +1,214 @@
+[
+  {
+    "ID": 1,
+    "section": 1,
+    "groupName": "FatBird",
+    "repo": "https://github.com/WarisaTT/PROJECT1-SEC-1-FatBird.git",
+    "members": [
+      {
+        "studentId": 65130500101,
+        "studentName": "นายฐานพัฒน์ ค้ำจุน"
+      },
+      {
+        "studentId": 65130500112,
+        "studentName": "นายพุฒินัฐ เลิศเวช"
+      },
+      {
+        "studentId": 65130500115,
+        "studentName": "นางสาวลลิตา เบญจมานุกูล"
+      },
+      {
+        "studentId": 65130500117,
+        "studentName": "นางสาววริษา เทียมทอง"
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "section": 1,
+    "groupName": "Monkeyz",
+    "repo": "https://github.com/MheeKhawDum/PROJECT1-SEC-1-Monkeyz.git",
+    "members": [
+      {
+        "studentId": 65130500009,
+        "studentName": "นายจิตติพัฒน์ พลหาร"
+      },
+      {
+        "studentId": 65130500015,
+        "studentName": "นายชนะพล เอื้อเฟื้อ"
+      },
+      {
+        "studentId": 65130500016,
+        "studentName": "นายชิษณุชา เชิงสมอ"
+      },
+      {
+        "studentId": 65130500097,
+        "studentName": "นายชยาศิส เกษรมาศ"
+      },
+      {
+        "studentId": 65130500123,
+        "studentName": "นายธนกร วงษ์คนดี"
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "section": 1,
+    "groupName": "NoSpaceInMemory",
+    "repo": "https://github.com/ccbluecc/PROJECT1-SEC-1-NoSpaceInMemory.git",
+    "members": [
+      {
+        "studentId": 65130500026,
+        "studentName": "นายธนวินท์ กีรติเกษมสุข"
+      },
+      {
+        "studentId": 65130500065,
+        "studentName": "นายภูริ ไชยนิคม"
+      },
+      {
+        "studentId": 65130500081,
+        "studentName": "นายศุภกร ปรีชานฤตย์"
+      },
+      {
+        "studentId": 65130500094,
+        "studentName": "นายชนะพล พันธุวดี"
+      },
+      {
+        "studentId": 65130500104,
+        "studentName": "นางสาวณัฐนันท์ จิราจารุวัฒน์"
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "section": 1,
+    "groupName": "Vue-ling",
+    "repo": "https://github.com/AkaKitsune027/PROJECT1-SEC-1-Vue-ling",
+    "members": [
+      {
+        "studentId": 65130500068,
+        "studentName": "นางสาวรติกร ดำเกิงลัภนวณิช"
+      },
+      {
+        "studentId": 65130500070,
+        "studentName": "นางสาววนัสนันท์ ตรีอภิบาลวงศา"
+      },
+      {
+        "studentId": 65130500071,
+        "studentName": "นางสาววรนุช นริศเนตร"
+      },
+      {
+        "studentId": 65130500111,
+        "studentName": "นางสาวพิมพ์พจี เศรษฐีรุ่งภพ"
+      },
+      {
+        "studentId": 65130500125,
+        "studentName": "นายอัชมาวีย์ สนูวงศ์"
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "section": 1,
+    "groupName": "SpongeBob",
+    "repo": "https://github.com/uoqq/PROJECT1-SEC-1-SpongeBob.git",
+    "members": [
+      {
+        "studentId": 65130500004,
+        "studentName": "นายก้องภพ พันธุ์กุ่ม"
+      },
+      {
+        "studentId": 65130500030,
+        "studentName": "นายธิติพัทธ์ ธนันต์ชัยนพเก้า"
+      },
+      {
+        "studentId": 65130500034,
+        "studentName": "นางสาวนลินี นิลทองคำ"
+      },
+      {
+        "studentId": 65130500036,
+        "studentName": "นายนิชฌาน กลกิจ"
+      },
+      {
+        "studentId": 65130500044,
+        "studentName": "นายปิติชัย ลิมป์สุชาลี"
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "section": 1,
+    "groupName": "TwoPlusTwoIsFour",
+    "repo": "https://github.com/Lattawit071/PROJECT1-SEC-1-TwoPlusTwoIsFour.git",
+    "members": [
+      {
+        "studentId": 65130500035,
+        "studentName": "นางสาวนัทธมน ทองคำอ้น"
+      },
+      {
+        "studentId": 65130500072,
+        "studentName": "นายวริทธิ์ธร สิริวัชระกุล"
+      },
+      {
+        "studentId": 65130500087,
+        "studentName": "นายอนวัตร กรุดธูป"
+      },
+      {
+        "studentId": 65130500116,
+        "studentName": "นายลัทธวิทย์ กทิศาสตร์"
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "section": 1,
+    "groupName": "WabiSabi",
+    "repo": "https://github.com/aomapjjj/PROJECT1-SEC-1-WabiSabi.git",
+    "members": [
+      {
+        "studentId": 65130500050,
+        "studentName": "นางสาวพาณิภัค จงศิริวาณิช"
+      },
+      {
+        "studentId": 65130500052,
+        "studentName": "นางสาวพิมพ์พิชญา แก้วแสง"
+      },
+      {
+        "studentId": 65130500056,
+        "studentName": "นางสาวแพรไหม วรรณศิริ"
+      },
+      {
+        "studentId": 65130500060,
+        "studentName": "นายภานุวัฒน์ วงษ์กระจ่าง"
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "section": 1,
+    "groupName": "WhoEverMoveLast",
+    "repo": "https://github.com/agentwolfcut/PROJECT1-SEC-1-WhoEverMoveLast.git",
+    "members": [
+      {
+        "studentId": 65130500037,
+        "studentName": "นายนิติศักดิ์ แข่งขัน"
+      },
+      {
+        "studentId": 65130500064,
+        "studentName": "นายภูริกรณ์ แสงสุวรรณ์"
+      },
+      {
+        "studentId": 65130500076,
+        "studentName": "นายวีราพัชร์ ดุจยงธรรมคุณ"
+      },
+      {
+        "studentId": 65130500095,
+        "studentName": "นายชนาธิป อินทร์สุ่ม"
+      },
+      {
+        "studentId": 65130500110,
+        "studentName": "นายปรเมษฐ์ วิญญุนาวรรณ"
+      }
+    ]
+  }
+]
